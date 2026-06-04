@@ -13,7 +13,7 @@
 Dự án được tối ưu hoá thông qua việc kết hợp dữ liệu Offline và Online Streaming, giúp tiết kiệm tối đa dung lượng bộ nhớ cho thiết bị.
 
 ## 🎥 Video Demo
-> **[📺 Bấm vào đây để xem Video Demo Ứng dụng](https://youtu.be/C2tdBeMBex8)**
+> **[📺 Bấm vào đây để xem Video Demo Ứng dụng]()**
 
 ---
 
